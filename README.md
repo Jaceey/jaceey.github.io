@@ -1,5 +1,5 @@
 # jaceey.github.io
 My portfolio
 
-http://jaceey.githun.io
+http://jaceey.github.io
 
